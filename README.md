@@ -37,7 +37,7 @@ project/
 └── README.md # Документация
 
 ## Запуск приложения
-```bash
+bash
 python main.py
 
 ## Установка библиотек
