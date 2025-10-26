@@ -2,7 +2,6 @@
 <img width="1197" height="858" alt="image" src="https://github.com/user-attachments/assets/4ae09b56-acf9-4e68-a2bc-249d08507c2e" />
 <img width="1200" height="862" alt="image" src="https://github.com/user-attachments/assets/df27e0e8-ddbf-4bc4-94ff-efac8383b39c" />
 
-```markdown
 ## Cross-Platform Application - Kivy
 
 ## Описание проекта
