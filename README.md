@@ -3,7 +3,7 @@
 <img width="1200" height="862" alt="image" src="https://github.com/user-attachments/assets/df27e0e8-ddbf-4bc4-94ff-efac8383b39c" />
 
 ```markdown
-# Cross-Platform Application - Kivy
+## Cross-Platform Application - Kivy
 
 ## Описание проекта
 Кроссплатформенное приложение с современным интерфейсом, включающее главный экран и экран профиля с анимацией и красивым дизайном.
